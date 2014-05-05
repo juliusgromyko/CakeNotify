@@ -1,0 +1,13 @@
+{
+  "name": "CakeNotify",
+  "url": "http://appcake.co/Dev/CakeNotify",
+  "license": "MIT",
+  "tags": ["AppCake", "iOS", "mac", "OSX", "Notification", "Badge"],
+  "description": "",
+  "version": "0.1.0",
+  "releasenote": "",
+  "contributors": ["Julius Gromyko | JuliusGromyko@gmail.com"],
+  "dependencies": {
+
+  }
+}

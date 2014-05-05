@@ -1,0 +1,1109 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"sessionCounter	Int"
+			],
+			[
+				"is",
+				"isTimeOut	Bool"
+			],
+			[
+				"us",
+				"showPauseIcon	Bool"
+			],
+			[
+				"P",
+				"Pause()	Unknown<1>"
+			],
+			[
+				"sho",
+				"showClearIcon	Bool"
+			],
+			[
+				"s",
+				"showPauseIcon	Bool"
+			],
+			[
+				"backdrop",
+				"backdrop2	var"
+			],
+			[
+				"l",
+				"lpad( s:String, c:String, l:Int )	String"
+			],
+			[
+				"textf",
+				"TextFormat (flash)	class"
+			],
+			[
+				"the",
+				"ThemeID	var"
+			],
+			[
+				"sca",
+				"scaleX	Float"
+			],
+			[
+				"th",
+				"Theme	class"
+			],
+			[
+				"sta",
+				"stageWidth	Int"
+			],
+			[
+				"bitm",
+				"BitmapData (flash.display)	class"
+			],
+			[
+				"Theme",
+				"ThemeID	var"
+			],
+			[
+				"load",
+				"loadBitmapData(...)	Void"
+			],
+			[
+				"Bitm",
+				"Bitmap (flash.display)	class"
+			],
+			[
+				"shared",
+				"SharedObject (flash.net)	class"
+			],
+			[
+				"getb",
+				"getBitmapData(...)	flash.display.BitmapData"
+			],
+			[
+				"dr",
+				"drawRect(...)	Void"
+			],
+			[
+				"b",
+				"beginFill(...)	Void"
+			],
+			[
+				"Pass",
+				"PassPart()	Float"
+			],
+			[
+				"pass",
+				"passSeconds	var"
+			],
+			[
+				"stage",
+				"stageHeight	Int"
+			],
+			[
+				"d",
+				"display	package"
+			],
+			[
+				"begi",
+				"beginBitmapFill(...)	Void"
+			],
+			[
+				"be",
+				"beginBitmapFill(...)	Void"
+			],
+			[
+				"bitmap",
+				"bitmap	var"
+			],
+			[
+				"gr",
+				"beginGradientFill(...)	Void"
+			],
+			[
+				"bitma",
+				"bitmap	var"
+			],
+			[
+				"lin",
+				"lineStyle(...)	Void"
+			],
+			[
+				"sc",
+				"scaleX	Float"
+			],
+			[
+				"FILTE",
+				"BitmapFilter (flash.filters)	class"
+			],
+			[
+				"qual",
+				"StageQuality.BEST (flash.display)	enum value"
+			],
+			[
+				"dra",
+				"drawRect(...)	Void"
+			],
+			[
+				"drawc",
+				"drawRoundRectComplex(...)	Void"
+			],
+			[
+				"draw",
+				"drawRoundRect(...)	Void"
+			],
+			[
+				"StageS",
+				"StageScaleMode	class"
+			],
+			[
+				"Scale",
+				"scaleMode	flash.display.StageScaleMode"
+			],
+			[
+				"string",
+				"StringTools	class"
+			],
+			[
+				"Add",
+				"ADDED_TO_STAGE	String"
+			],
+			[
+				"Sca",
+				"scaleX	Float"
+			],
+			[
+				"mov",
+				"MOUSE_MOVE	String"
+			],
+			[
+				"label",
+				"SessionCounterLabel	var"
+			],
+			[
+				"Mouse",
+				"MouseEvent (flash.events)	class"
+			],
+			[
+				"dispat",
+				"EventDispatcher (flash.events)	class"
+			],
+			[
+				"mu",
+				"MultitouchInputMode (flash.ui)	enum"
+			],
+			[
+				"Shared",
+				"SharedObject (flash.net)	class"
+			],
+			[
+				"SharedO",
+				"SharedObject (flash)	class"
+			],
+			[
+				"SharedObject",
+				"SharedObject (flash.net)	class"
+			],
+			[
+				"Draw",
+				"DrawRectangle	function"
+			],
+			[
+				"Time",
+				"TimerIndicator	var"
+			],
+			[
+				"Dra",
+				"DrawRectangle(...)	Unknown<1>"
+			],
+			[
+				"wi",
+				"Width	var"
+			],
+			[
+				"text",
+				"TextField (flash.text)	class"
+			],
+			[
+				"te",
+				"TextField	class"
+			],
+			[
+				"Stri",
+				"String	class"
+			],
+			[
+				"a",
+				"Array	class"
+			],
+			[
+				"Poin",
+				"Pointer (appcake.inmyhand)	class"
+			],
+			[
+				"transfo",
+				"TransformGestureEvent (flash.events)	class"
+			],
+			[
+				"li",
+				"Lib (flash)	class"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"stage	flash.display.Stage"
+			],
+			[
+				"del",
+				"deltaX"
+			],
+			[
+				"scr",
+				"screenY	var"
+			],
+			[
+				"_pre",
+				"_prevDeltaY	var"
+			],
+			[
+				"de",
+				"deltaZoom	Int"
+			],
+			[
+				"Scroll",
+				"ScrollAndZoom	Int"
+			],
+			[
+				"anyJust",
+				"anyJustPressed(...)	Bool"
+			],
+			[
+				"FlxAndro",
+				"flixel.input.android	package"
+			],
+			[
+				"FlxAndroi",
+				"FlxAndroidKeyList	class"
+			],
+			[
+				"Flx",
+				"FlxG (flixel)	class"
+			],
+			[
+				"delta",
+				"deltaY	Int"
+			],
+			[
+				"pre",
+				"pressedMiddle	Bool"
+			],
+			[
+				"Dr",
+				"DragStop	Int"
+			],
+			[
+				"pressed",
+				"pressedRight	Bool"
+			],
+			[
+				"Event",
+				"EventTypes (commanders)	class"
+			],
+			[
+				"FlxKey",
+				"FlxKey	class"
+			],
+			[
+				"FlxM",
+				"FlxMouse (flixel.input.mouse)	class"
+			],
+			[
+				"FlxColor",
+				"FlxColorUtil	class"
+			],
+			[
+				"co",
+				"FlxColor	class"
+			],
+			[
+				"bit",
+				"BitmapData (flash.display)	class"
+			],
+			[
+				"Colort",
+				"ColorTransform (flash.geom)	class"
+			],
+			[
+				"grou",
+				"ground_sand	var"
+			],
+			[
+				"cop",
+				"copyPixels(...)	Void"
+			],
+			[
+				"bg",
+				"bgColor	Int"
+			],
+			[
+				"colo",
+				"bgColor	Int"
+			],
+			[
+				"m",
+				"multiVar(...)	flixel.tweens.FlxTween"
+			],
+			[
+				"S",
+				"StageSizeScaleMode	class"
+			],
+			[
+				"x",
+				"screenX	Int"
+			],
+			[
+				"flxg",
+				"FlxG (flixel)	class"
+			],
+			[
+				"input",
+				"FlxKeyboard (flixel.input.keyboard)	class"
+			],
+			[
+				"FLXg",
+				"FlxG (flixel)	class"
+			],
+			[
+				"bitmap_",
+				"bitmap_loadingBackdrop	Unknown<4>"
+			],
+			[
+				"class",
+				"className	var"
+			],
+			[
+				"String",
+				"StringTools	class"
+			],
+			[
+				"frame",
+				"framePixels	flash.display.BitmapData"
+			],
+			[
+				"frameD",
+				"framesData	flixel.system.layer.frames.FlxSpriteFrames"
+			],
+			[
+				"Assets",
+				"Assets (StaticAssets)	class"
+			],
+			[
+				"Bitmap",
+				"BitmapData (flash.display)	class"
+			],
+			[
+				"get",
+				"GetLoadingBackdrop()	flash.display.BitmapData"
+			],
+			[
+				"Bitma",
+				"BitmapData (flash.display)	class"
+			],
+			[
+				"getPreloaderProgressBar",
+				"getPreloaderProgressBarPosition()	Dynamic"
+			],
+			[
+				"getPreloaderde",
+				"getPreloaderDeveloperLogoOffsetY()	Dynamic"
+			],
+			[
+				"getPrelo",
+				"getPreloaderDeveloperLogoSize()	Dynamic"
+			],
+			[
+				"scale",
+				"scaleY	Float"
+			],
+			[
+				"p",
+				"parseInt( x:String )	Null<Int>"
+			],
+			[
+				"getDev",
+				"getDeveloperWebSite()	Dynamic"
+			],
+			[
+				"grap",
+				"GraphicLogoCompany (Preloader)	class"
+			],
+			[
+				"B",
+				"BLACK	Int"
+			],
+			[
+				"Error",
+				"Error (haxe.macro.Expr)	class"
+			],
+			[
+				"Get",
+				"getDeveloperTitle()	Dynamic"
+			],
+			[
+				"Byte",
+				"ByteArray (flash.utils)	class"
+			],
+			[
+				"gets",
+				"getSerializedCopyOfFile(...)	Dynamic"
+			],
+			[
+				"XML",
+				"Xml	class"
+			],
+			[
+				"com",
+				"com.haxepunk	package"
+			],
+			[
+				"e",
+				"events	package"
+			],
+			[
+				"HTT",
+				"HttpAsyncConnection	class"
+			],
+			[
+				"Asyn",
+				"AsyncConnection	class"
+			],
+			[
+				"of",
+				"offsetY	var"
+			],
+			[
+				"fun",
+				"Function (flash.utils)	typedef"
+			],
+			[
+				"C",
+				"Character (entities)	class"
+			],
+			[
+				"Spr",
+				"Spritemap (com.haxepunk.graphics)	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project/include/Utils.h",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project/common/ExternalInterface.cpp",
+			"settings":
+			{
+				"buffer_size": 755,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git com	",
+				"Git: Amend Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git comm	",
+				"Git: Commit"
+			],
+			[
+				"git res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"git : add",
+				"Git: Add..."
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl s",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"erlang",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rel",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"repl er",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"repl erl",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"manp",
+				"Manpage: Open manual page"
+			],
+			[
+				"erla",
+				"Set Syntax: Erlang"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"relo",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"resta",
+				"Haxe: Restart Server"
+			],
+			[
+				"abou",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"set rep",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"reload",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"erl",
+				"Set Syntax: Erlang"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"haxe",
+				"Set Syntax: Haxe"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack re",
+				"Package Bundler: Manage Bundle"
+			],
+			[
+				"pack",
+				"Package Bundler: Manage Bundle"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pak",
+				"Package Bundler: Load Bundle"
+			],
+			[
+				"paga",
+				"Package Bundler: Manage Bundle"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"stylu",
+				"Set Syntax: Stylus"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JuliusGromyko/Desktop/CakeNotify/include.xml",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/haxelib.json",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/LICENSE",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/common/ExternalInterface.cpp",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/Mac/Notify.mm",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/Build.xml",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/demo/Main.hx",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/run_demo_osx.sh",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/build.sh",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/Build.xml",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/Makefile",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/CakeNotify.hx",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/include/Utils.h",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/demo/project.xml",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/demo/build.hxml",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/iPhone/Notify.mm",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/TestExtension.hx",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/include/Utils.h",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/common/ExternalInterface.cpp",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/common/TestExtension.cpp",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/project/common/CakeNotify.cpp",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/include.xml",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/haxelib.json",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/README.md",
+		"/Users/JuliusGromyko/Desktop/CakeNotify/run_demo_ios.sh",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/Mac/Notify.mm",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/iPhone/Notify.mm",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/build.sh",
+		"/usr/lib/haxe/lib/hxcpp/3,1,30/test/ndlls/compile64.hxml",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/TestApp/Main.hx",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/TestApp/project.xml",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/TestApp/build.hxml",
+		"/usr/lib/haxe/lib/nmex/1,0,0/project/iphone/Notifications.mm",
+		"/usr/lib/haxe/lib/nmex/1,0,0/project/include/Notifications.h",
+		"/Users/JuliusGromyko/Desktop/openfl-extension-example-master/project/Mac/Tweet.mm",
+		"/usr/lib/haxe/lib/nmex/1,0,0/project/common/ExternalInterface.cpp",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/DIGITAL_HUMAN",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/HERO_DEATH",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/MEXICO",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/MAX_DALTON-TEACH_YOUR_SELF_HOW_TO_LEARN",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/PLATON_CAME_TO_BAR",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/SERBIA",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Theme.hx",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/SUMMER",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/TOP_10_CHEAP",
+		"/Users/JuliusGromyko/Проекты/Web/LeChtivo/bin/articles/WORK_FREE",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Timer.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Logic.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/project.xml",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Project.hxproj",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Storage.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Main.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/text/Font.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/openfl/text/AbstractFont.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/text/Font.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/text/TextFormat.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/text/TextFieldType.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/text/TextField.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/text/TextFormatAlign.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/text/TextFieldAutoSize.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/Stage.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/sensors/Accelerometer.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/sensors/Accelerometer.hx",
+		"/usr/lib/haxe/lib/basisApple/0,1,0-alpha/apple/foundation/NSNotification.hx",
+		"/usr/lib/haxe/lib/basisApple/0,1,0-alpha/basis/ios/IOSApplication.hx",
+		"/usr/lib/haxe/lib/basisApple/0,1,0-alpha/basis/ios/IOSUtil.hx",
+		"/usr/lib/haxe/lib/basisApple/0,1,0-alpha/apple/ui/UIKit.hx",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/project/include/Utils.h",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/project/common/AppCakeNotification.cpp",
+		"/usr/lib/haxe/lib/nmex/1,0,0/nmex/Notifications.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/sacrificed/Main.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/sacrificed/UI.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/Commander.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/themes/Sublime.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/themes/Theme.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/layouts/Options.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/layouts/Layout.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/layouts/Timer.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/View.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/ThemeManager.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Source/UI.hx",
+		"/Users/JuliusGromyko/Desktop/GoFocus/Export/ios/GoFocus/assets/manifest",
+		"/usr/lib/haxe/lib/openfl/1,4,0/templates/project/Project.hxproj",
+		"/usr/lib/haxe/lib/openfl/1,4,0/templates/project/project.xml",
+		"/Users/JuliusGromyko/Desktop/FlxAccelerometer/source/PlayState.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/PixelSnapping.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/Graphics.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/DisplayObject.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/DisplayObjectContainer.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/Sprite.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/display/StageScaleMode.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/flash/Lib.hx",
+		"/usr/lib/haxe/lib/openfl-native/1,4,0/openfl/display/ManagedStage.hx",
+		"/Users/JuliusGromyko/Desktop/_GoFocus/project.xml",
+		"/Users/JuliusGromyko/Desktop/AppCake Template 2/Source/Main.hx",
+		"/Users/JuliusGromyko/Desktop/AppCake Template 2/project.xml",
+		"/Users/JuliusGromyko/Desktop/AppCake Template 2/Source/appcake/inmyhand/Mouse.hx",
+		"/Users/JuliusGromyko/Desktop/AppCake Template 2/Source/appcake/InMyHand.hx",
+		"/Users/JuliusGromyko/Шляпа/AppCake Works/AppCake Template 2/Source/Main.hx",
+		"/Users/JuliusGromyko/Desktop/MyProject/Source/Main.hx",
+		"/Users/JuliusGromyko/Desktop/MyProject/project.xml",
+		"/Users/JuliusGromyko/Desktop/AppCake Template 2/Source/appcake/inmyhand/Touch.hx",
+		"/Users/JuliusGromyko/Downloads/HaxePunk-2.5.2/com/haxepunk/Engine.hx",
+		"/Users/JuliusGromyko/Downloads/HaxePunk-2.5.2/com/haxepunk/utils/Input.hx",
+		"/Users/JuliusGromyko/Downloads/HaxePunk-2.5.2/com/haxepunk/utils/Touch.hx",
+		"/usr/lib/haxe/lib/flixel/3,2,2/flixel/input/touch/FlxTouchManager.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/events/MouseEvent.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,1/flixel/input/touch/FlxTouchManager.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/Lib.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/Memory.hx",
+		"/usr/lib/haxe/lib/openfl/1,4,0/flash/system/System.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,1/flixel/util/FlxColorUtil.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,1/flixel/util/FlxColor.hx",
+		"/usr/lib/haxe/lib/nmex/1,0,0/project/Build.xml",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/AppCakeNotification.hx",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/project/common/ExternalInterface.cpp",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/include.xml",
+		"/Users/JuliusGromyko/Desktop/AppCakeNotification/haxelib.json",
+		"/usr/lib/haxe/lib/openfl-compatibility/1,0,1/nme/Loader.hx",
+		"/usr/lib/haxe/lib/CameraMic/git/CameraMic/CameraMic.hx",
+		"/usr/lib/haxe/lib/nme/4,0,2/nme/Loader.hx",
+		"/usr/lib/haxe/lib/nmex/1,0,0/include.nmml",
+		"/usr/lib/haxe/lib/nmex/1,0,0/haxelib.xml",
+		"/usr/lib/haxe/lib/lime/0,9,7/lime/utils/Libs.hx",
+		"/Users/JuliusGromyko/Проекты/Apps/AppCake Template/project.xml",
+		"/Users/JuliusGromyko/Desktop/GoTimer/Source/Main.hx",
+		"/Users/JuliusGromyko/Desktop/GoTimer/project.xml",
+		"/Users/JuliusGromyko/Desktop/Pomodoro/Project.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"teste",
+			"getOri",
+			"dpi",
+			"window",
+			"__drawToSurface",
+			"smoo",
+			"pressed",
+			"androi",
+			"end",
+			"press",
+			"input",
+			"resize",
+			"onresize",
+			"flas",
+			"GenF",
+			"com",
+			"_min",
+			"end",
+			"TRIA",
+			"Premium",
+			"1405",
+			"1,405",
+			"1,405.00",
+			"zip",
+			"applica",
+			"tour",
+			"btn",
+			"anima",
+			"h5",
+			")",
+			"skill",
+			"testim",
+			"img",
+			"imge",
+			"img",
+			"logo",
+			"plac",
+			"logo",
+			",",
+			"patter",
+			"0",
+			"endbp",
+			"contact",
+			"background",
+			" .",
+			"anim",
+			"flip",
+			"75em",
+			"animation",
+			"hr",
+			"png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project/include/Utils.h",
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project/common/ExternalInterface.cpp",
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.haxe":
+	{
+		"height": 100.0
+	},
+	"output.sublimerl_autocompiler":
+	{
+		"height": 100.0
+	},
+	"output.sublimerl_man":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/JuliusGromyko/Desktop/sampleche.erl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<ndll name="cakenotify" />
+	
+	<!-- Apple iOS -->
+	<dependency name="Foundation.framework" if="ios"/>
+
+	<!-- Apple Mac OS X -->
+    <dependency name="AppKit.framework" if="mac"/>
+	
+	<!-- Google Android -->
+	<dependency name="cakenotify" path="dependencies/android" if="android" />
+	<android extension="org.haxe.extension.CakeNotify" />
+	
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="AppCake Notify Demo" package="com.appcake.notifydemo" version="1.0.0" company="Laurent Bedubourg" />
+	<app main="Main" path="Export" file="AppCake" />
+	<source path="." />
+	<haxelib name="openfl" />
+    <haxelib name="CakeNotify" />
+</project>
