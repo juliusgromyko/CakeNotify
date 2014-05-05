@@ -3,10 +3,10 @@
   "url": "http://appcake.co/Dev/CakeNotify",
   "license": "MIT",
   "tags": ["AppCake", "iOS", "mac", "OSX", "Notification", "Badge"],
-  "description": "",
-  "version": "0.1.0",
+  "description": "Cross-platform notification lib",
+  "version": "0.1.1",
   "releasenote": "",
-  "contributors": ["Julius Gromyko | JuliusGromyko@gmail.com"],
+  "contributors": ["JuliusGromyko"],
   "dependencies": {
 
   }
