@@ -58,4 +58,14 @@ namespace cakenotify {
       [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText]];
       [alert runModal];
     }
+
+    // SHOW ALERT BOX WITH TWO BUTTONS
+    int alert2(const char *titleText, const char *bodyText, const char *buttonText1, const char *buttonText2){
+      NSAlert *alert = [[[NSAlert alloc] init] autorelease];
+      [alert setMessageText:[[NSString alloc] initWithUTF8String:titleText]];
+      [alert setInformativeText:[[NSString alloc] initWithUTF8String:bodyText]];
+      [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText1]];
+      [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText2]];
+      return [alert runModal];
+    }
 }

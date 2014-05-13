@@ -46,6 +46,14 @@ static value cakenotify_alert(value titleText, value bodyText,value buttonText)
 }
 DEFINE_PRIM(cakenotify_alert,3);
 
+// SHOW ALERT BOX WITH TWO BUTTONS
+static value cakenotify_alert2(value titleText, value bodyText,value buttonText1, value buttonText2)
+{
+	int returnValue = cakenotify::alert2(val_string(titleText), val_string(bodyText), val_string(buttonText1), val_string(buttonText2));
+	return alloc_int(returnValue);
+}
+DEFINE_PRIM(cakenotify_alert2,4);
+
 // MAIN ENTRY POINT
 extern "C" void cakenotify_main ()
 {	

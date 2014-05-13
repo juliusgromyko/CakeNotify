@@ -49,5 +49,20 @@ class CakeNotify {
 		return cakenotify_alert(titleText, bodyText, buttonText);
     }
 	private static var cakenotify_alert = Lib.load("cakenotify", "cakenotify_alert", 3);
+
+	/** Show simply alert box
+	* titleText:String - title of alert box
+	* bodyText:String - body text
+	* buttonText:String - title of default button
+	*/
+	public static function alert2(titleText:String, bodyText:String, buttonText1:String, buttonText2:String):Int {
+		var r:Int = cakenotify_alert2(titleText, bodyText, buttonText1, buttonText2);
+
+		// Normalizing response for MacOS
+		if(r>=1000) r-=999;
+
+		return r;
+    }
+	private static var cakenotify_alert2 = Lib.load("cakenotify", "cakenotify_alert2", 4);
 	
 }

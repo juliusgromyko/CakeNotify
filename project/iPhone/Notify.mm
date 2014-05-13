@@ -1,8 +1,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "ViewController.h"
 
 namespace cakenotify {
-    
     // SEND NOTIFICATION
     void Notify(int secondsToFire, const char *bodyText, const char *titleText, int badgeNumber, const char *userInfo){
         UILocalNotification *localNotif = [[UILocalNotification alloc] init];
@@ -50,5 +50,19 @@ namespace cakenotify {
                                                     cancelButtonTitle:[[NSString alloc] initWithUTF8String:buttonText]
                                                     otherButtonTitles:nil];
       [alert show];
+    }
+
+    // SHOW ALERT BOX WITH TWO BUTTONS
+    int alert2(const char *titleText, const char *bodyText, const char *buttonText1, const char *buttonText2){
+      UIAlertView *alert = [[UIAlertView alloc] initWithTitle:[[NSString alloc] initWithUTF8String:titleText]
+                                                    message:[[NSString alloc] initWithUTF8String:bodyText]
+                                                    delegate: [[ViewController alloc] init]
+                                                    cancelButtonTitle:nil
+                                                    otherButtonTitles:nil];
+      [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText1]];
+      [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText2]];
+      [alert show];
+      [alert release];
+      return 0;
     }
 }

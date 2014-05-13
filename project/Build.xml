@@ -18,6 +18,7 @@
 	<!-- When compiling for iphone we use this -->
     <files id="iphone">
       <file name="iPhone/Notify.mm"/>
+      <file name="iPhone/ViewController.mm"/>
     </files>
 
     <!-- When compiling for mac we use that -->
