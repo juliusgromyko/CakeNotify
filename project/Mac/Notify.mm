@@ -68,4 +68,9 @@ namespace cakenotify {
       [alert addButtonWithTitle:[[NSString alloc] initWithUTF8String:buttonText2]];
       return [alert runModal];
     }
+
+    // PREVENT SCREEN LOCK
+    void preventScreenLock(bool state){
+      return;
+    }
 }

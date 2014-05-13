@@ -65,4 +65,9 @@ namespace cakenotify {
       [alert release];
       return 0;
     }
+
+    // PREVENT SCREEN LOCK
+    void preventScreenLock(bool state){
+      [[UIApplication sharedApplication] setIdleTimerDisabled: state];
+    }
 }

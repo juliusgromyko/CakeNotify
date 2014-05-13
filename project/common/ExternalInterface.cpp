@@ -54,6 +54,14 @@ static value cakenotify_alert2(value titleText, value bodyText,value buttonText1
 }
 DEFINE_PRIM(cakenotify_alert2,4);
 
+// PREVENT SCREEN LOCK
+static value cakenotify_prevent_screen_lock(value state)
+{
+	cakenotify::preventScreenLock(val_bool(state));
+  	return alloc_null();
+}
+DEFINE_PRIM(cakenotify_prevent_screen_lock,1);
+
 // MAIN ENTRY POINT
 extern "C" void cakenotify_main ()
 {	

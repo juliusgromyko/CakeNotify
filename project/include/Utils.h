@@ -17,6 +17,9 @@ namespace cakenotify {
 
 	// SHOW ALERT BOX WITH TWO BUTTONS
 	int alert2(const char *titleText, const char *bodyText, const char *buttonText1, const char *buttonText2);
+
+	// PREVENT SCREEN LOCK
+    void preventScreenLock(bool state);
 }
 
 #endif
