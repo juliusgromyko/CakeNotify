@@ -73,12 +73,12 @@ class CakeNotify {
 	*/
 	public static function preventScreenLock(State:Bool=true) {
 		#if ios
-		return prevent_screen_lock(State);
+		return cakenotify_prevent_screen_lock(State);
 		#else
 		return 0;
 		#end
     }
     #if ios
-	private static var prevent_screen_lock = Lib.load("cakenotify", "prevent_screen_lock", 1);	
+	private static var cakenotify_prevent_screen_lock = Lib.load("cakenotify", "cakenotify_prevent_screen_lock", 1);	
 	#end
 }
